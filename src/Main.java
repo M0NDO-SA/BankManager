@@ -151,7 +151,7 @@ public class Main {
 
             while (true) {
 
-                try {
+                try  {
 
                     System.out.print("Entrez la durée : ");
                     cod.duration = scanner.nextInt();
