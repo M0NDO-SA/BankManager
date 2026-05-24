@@ -53,7 +53,7 @@ Le projet contient les classes suivantes :
 
 ---
 
-## Exemple de fonctionnement
+## Exemple de fonctionnement 
 
 Le programme demande :
 
